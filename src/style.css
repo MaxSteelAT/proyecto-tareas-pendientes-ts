@@ -140,6 +140,11 @@ input[type="text"] {
   margin: 30px;
 }
 
+/* .add-task-button {
+  display: flex;
+  flex-direction: column;
+} */
+
 .app-container {
   text-align: center;
   padding: 20px;
